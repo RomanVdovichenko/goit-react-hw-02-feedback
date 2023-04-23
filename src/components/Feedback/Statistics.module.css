@@ -1,17 +1,10 @@
-.list {
-  list-style: none;
-  padding-left: 0;
-}
-
-.text {
-  padding-left: 10px;
-}
-
-.item {
-  margin-bottom: 10px;
+.sum {
+  margin-left: 10px;
 }
 
 .text {
   font-size: 24px;
   font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
