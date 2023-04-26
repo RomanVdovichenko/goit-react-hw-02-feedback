@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { Statistics } from './Feedback/Statistics';
-import { FeedbackOptions } from './Feedback/FeedbackOptions';
-import { Section } from './Feedback/Section';
-import { Notification } from './Feedback/Notification';
+import { Statistics } from './Statistics/Statistics';
+import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
+import { Section } from './Section/Section';
+import { Notification } from './Notification/Notification';
 
 const buttonMap = [
   { id: 'id-good', titleBtn: 'Good', name: 'good' },
